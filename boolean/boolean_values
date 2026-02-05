@@ -1,0 +1,12 @@
+is_sunny = True
+print(is_sunny)
+
+is_raining = False
+print(is_raining)
+
+print(True)
+
+x = 10
+print(x > 5)
+
+print(bool(1))
